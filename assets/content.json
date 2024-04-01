@@ -1,0 +1,101 @@
+{
+    "events": [
+        {
+           "id": 0,
+           "name": "Red Light Festival (Floripa)", 
+           "address": "Avenida Beira Mar  Florianópolis, SC",
+           "date": "2024-12-22 22:47:59.682",
+           "phone": "99 999889545",
+           "coordinates": ["-27.583107", "-48.544975"],
+           "imageUrl": "https://i.pinimg.com/564x/4c/8e/24/4c8e24335f110f6abdf3f938ffabc0d0.jpg",
+           "siteUrl": "https://www.instagram.com/redlight.festival/",
+           "videoUrl": "https://www.youtube.com/watch?v=xAgApHvweLI",
+           "ticketUrl": "https://www.sympla.com.br/evento/red-light-festival-floripa/1846836",
+           "price": "25,00"
+        },
+
+        {
+            "id": 1,
+            "name": "Florianópolis | Degustação dos Vinhos de Portugal", 
+            "address": "Avenida Beira Mar  Florianópolis, SC",
+            "date": "2024-12-22 22:47:59.682",
+            "phone": "99 999889545",
+            "coordinates": ["-27.583107", "-48.544975"],
+            "imageUrl": "https://i.pinimg.com/564x/16/2a/59/162a5913bef8433c291d790fd9edd253.jpg",
+            "siteUrl": "https://www.instagram.com/redlight.festival/",
+            "videoUrl": "https://www.youtube.com/watch?v=0lqKlAB-SuM",
+            "ticketUrl": "https://www.sympla.com.br/evento/red-light-festival-floripa/1846836",
+            "price": "25,00"
+        },
+
+        {
+            "id": 2,
+            "name": "Feira do Intercâmbio em Florianópolis", 
+            "address": "Majestic Palace Hotel, Florianópolis - SC",
+            "date": "2024-04-04 22:47:59.682",
+            "phone": "99 999889545",
+            "coordinates": ["-27.583107", "-48.544975"],
+            "imageUrl": "https://i.pinimg.com/564x/fb/57/a9/fb57a9bb277ac8aaac5a50583412917a.jpg",
+            "siteUrl": "https://www.instagram.com/redlight.festival/",
+            "videoUrl": "https://www.youtube.com/watch?v=NCX1QVzp7MM",
+            "ticketUrl": "https://www.sympla.com.br/evento/feira-do-intercambio-em-florianopolis/2368216",
+            "price": "32,00"
+        },
+
+        {
+            "id": 3,
+            "name": "Meia Maratona Internacional de Florianópolis Oakberry", 
+            "address": "Praça de Portugal, Florianópolis - SC",
+            "date": "2024-05-04 22:47:59.682",
+            "phone": "99 999889545",
+            "coordinates": ["-27.583107", "-48.544975"],
+            "imageUrl": "https://i.pinimg.com/564x/e5/58/ad/e558ad29f2aee8478b407ee60f3efe11.jpg",
+            "siteUrl": "https://www.instagram.com/redlight.festival/",
+            "videoUrl": "https://www.youtube.com/watch?v=0lqKlAB-SuM",
+            "ticketUrl": "https://www.sympla.com.br/evento/meia-maratona-internacional-de-florianopolis-oakberry-2024/2074662",
+            "price": "0"
+        },
+
+        {
+            "id": 4,
+            "name": "Digitalks Florianópolis", 
+            "address": "CentroSul, Florianópolis - SC",
+            "date": "2024-12-22 22:47:59.682",
+            "phone": "99 999889545",
+            "coordinates": ["-27.583107", "-48.544975"],
+            "imageUrl": "https://i.pinimg.com/564x/0b/df/90/0bdf902f2dea04485da1d5883f77a55d.jpg",
+            "siteUrl": "https://www.instagram.com/redlight.festival/",
+            "videoUrl": "https://www.youtube.com/watch?v=0lqKlAB-SuM",
+            "ticketUrl": "https://www.sympla.com.br/evento/digitalks-florianopolis/2363112",
+            "price": "42,00"
+        },
+
+        {
+            "id": 5,
+            "name": "Bouga Kids - Páscoa", 
+            "address": "Shopping Bougainville, Goiânia - GO",
+            "date": "2024-03-31 22:47:59.682",
+            "phone": "99 999889545",
+            "coordinates": ["-27.583107", "-48.544975"],
+            "imageUrl": "https://i.pinimg.com/564x/a6/72/68/a6726828341c856c9cab734d026d8c94.jpg",
+            "siteUrl": "https://www.instagram.com/redlight.festival/",
+            "videoUrl": "https://www.youtube.com/watch?v=0lqKlAB-SuM",
+            "ticketUrl": "https://www.sympla.com.br/evento/bouga-kids-pascoa/2397214",
+            "price": "28,00"
+        },
+
+        {
+            "id": 6,
+            "name": "Infla Park Brasil - Parque de Infláveis gigantes", 
+            "address": "Shopping Nova América - Av. Pastor Martin Luther King Jr",
+            "date": "2024-12-22 22:47:59.682",
+            "phone": "99 999889545",
+            "coordinates": ["-27.583107", "-48.544975"],
+            "imageUrl": "https://i.pinimg.com/564x/0b/4d/62/0b4d62b6d9673ea4737705df45aae529.jpg",
+            "siteUrl": "https://www.instagram.com/redlight.festival/",
+            "videoUrl": "https://www.youtube.com/watch?v=0lqKlAB-SuM",
+            "ticketUrl": "https://bileto.sympla.com.br/event/91202/d/245209?_gl=1*4lh176*_ga*NzYzMDY2MzI4LjE3MTE0MDYzMDQ.*_ga_KXH10SQTZF*MTcxMTkyMTE4NC4yLjEuMTcxMTkyMjAzOC41Mi4wLjE1MTY3OTcwNzY.",
+            "price": "25,00"
+        }
+    ]
+}

@@ -1,21 +1,24 @@
 import * as React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
+import { PaperProvider } from 'react-native-paper';
 
-import HomeScreen from './views/Home';
 import AttractionListScreen from './views/AttractionList';
-import AttractionDetailsScreen from './views/AttractionDetails'
+import AttractionDetailsScreen from './views/AttractionDetails';
+import AttractionsLikedScreen from './views/AttractionsLiked';
 
 const Stack = createNativeStackNavigator();
 
 export default function App() {
   return (
-    <NavigationContainer>
-      <Stack.Navigator initialRouteName="Home">
-        <Stack.Screen name="Home" component={HomeScreen} />
-        <Stack.Screen name="AttractionList" component={AttractionListScreen} />
-        <Stack.Screen name="AttractionDetails" component={AttractionDetailsScreen} />
-      </Stack.Navigator>
-    </NavigationContainer>
+    <PaperProvider>
+      <NavigationContainer>
+        <Stack.Navigator initialRouteName="AttractionList">
+          <Stack.Screen name="AttractionList" options={{ title: 'Atrações' }} component={AttractionListScreen} />
+          <Stack.Screen name="AttractionDetails" options={{ title: 'Detalhes' }} component={AttractionDetailsScreen} />
+          <Stack.Screen name="AttractionsLiked" options={{ title: 'Favoritos' }} component={AttractionsLikedScreen} />
+        </Stack.Navigator>
+      </NavigationContainer>
+    </PaperProvider>
   );
 }
